@@ -31,7 +31,7 @@ Questions  i will answer:
 
 ## Results<a name="results"></a>
 
-The results of 3 Questions can be viewd here [here]().
+The results of 3 Questions can be viewd here [here](https://medium.com/@yasir.masad/exploring-google-app-store-data-23568b1cf1bf).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
