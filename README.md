@@ -2,8 +2,6 @@
 Write-a-Data-Science-Blog-Post
 A Udacity Data Scientist Nanodegree Project
 
-TA Udacity Data Scientist Nanodegree Project
-
 ### Table of Contents
 
 1. [Installation](#installation)
