@@ -18,7 +18,6 @@
 Most of the world mobile users uses android, and as its share of Mobile OS in 2019 is 74.2%, So it is crucial for Application developers and companies to understand the android app market.
 What I will do is break the data into two groups one for apps that have teens as their primary target, and one for Everyone as their target, After exploring the data these are the question I will try to answer:
 
-Questions  i will answer:
 1. For Apps that target teens, what are the top categories of these apps, and their Genres. (For instance  I will pick top categories and see their genre and compare with apps that doesn’t target teen specifically ) ? and for those categories what proportion of them are paid? and do they have high install rate compare to free. And for Apps rated above 4.5 for teens and Everyone as their target do they fall to same categories and genre?.
 2. Does apps that are paid have far lower downloads than free apps. ( basically do android users prefer to pay for apps). And what is the proportion of paid to the all apps?
 3. Is there any relationship between price and  of a paid app and its rating?
